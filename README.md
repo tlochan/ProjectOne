@@ -26,9 +26,9 @@
 #### Notably, these differentials are not steady even though the previous graph shows that all three categories demonstrated the same general shape. The below average school district is becoming cheaper ($37k vs $70k less). The good school district fluctuated up and down in the last 20 years but has stayed around $100k more in the last 15. The value of a great school district in 2000 was $165k but now these same districts cost in excess of $300k more than average. 
 
 ### Recent Data
-![Bar for School Ratings](bar_rating_vs_value.png.png)
+![Bar for School Ratings](bar_rating_vs_value.png)
 ####  Looking at the most recent Zillow data, a house in a poor school district averages around $365k, a good district costs about $570k, and the top tier of school districts run over $800k. 
-![2019](school_rating_vs_2019_value.png)
+![2019](Outputs/school_rating_vs_2019_value.png)
 ![2020](Outputs/school_rating_vs_2020_home_value.png)
 ![2021](Outputs/school_rating_vs_2021_home_value.png)
 ####  When completing a scatter plot for each year and a linear regression, we see a weak correlation between home value and school rating. Each year had a R-Value around 0.33. This r-value illustrates taht there is likely other factors in play when considering home value. These variables may include related items such as crime rate, access to groceries, walkability, etc. In future analysis, we could correct for square footage and room count by zooming in on a few specific school districts.
