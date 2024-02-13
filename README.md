@@ -20,7 +20,7 @@
 # Conclusions
 ### Longitudinal
 ![Home Prices](Outputs/Change_in_home_price.png)
-####  This graph charted the average home value for three different categories of school rating (<6, 6-8, 8+) for the last 20 years. The ANOVA test revealed an f-value of 15.532 which exceed the critical value -- this suggests that these groups are diffreent in a significant manner. When looking at the graph, it is evident that the better the school district, the higher the average school price is over the last 20 years. 
+####  This graph charted the average home value for three different categories of school rating (<6, 6-8, 8+) for the last 20 years. The ANOVA test revealed an f-value of 15.532 which exceed the critical value -- this suggests that these groups are different in a significant manner. When looking at the graph, it is evident that the better the school district, the higher the average school price is over the last 20 years. 
 ![Avg Home Values](Outputs/Change_in_home_price_vs_avg.png)
 ####  These values represent the dollar value that a great, good, or below average school district creates against the average home value in New Jersey. For example, the below average school districts have houses that are ~$70k cheaper than the average 2020 home. Using the ANOVA method, we determined the f-value (91.6) to exceed the critical value; thus these groups have some statistically significant difference.
 
@@ -32,7 +32,7 @@
 ![2019](Outputs/school_rating_vs_2019_value.png)
 ![2020](Outputs/school_rating_vs_2020_home_value.png)
 ![2021](Outputs/school_rating_vs_2021_home_value.png)
-####  When completing a scatter plot for each year and a linear regression, we see a weak correlation between home value and school rating. Each year had a R-Value around 0.33. This r-value illustrates taht there is likely other factors in play when considering home value. These variables may include related items such as crime rate, access to groceries, walkability, etc. In future analysis, we could correct for square footage and room count by zooming in on a few specific school districts.
+####  When completing a scatter plot for each year and a linear regression, we see a weak correlation between home value and school rating. Each year had a R-Value around 0.33. This r-value illustrates that there is likely other factors in play when considering home value. These variables may include related items such as crime rate, access to groceries, walkability, etc. In future analysis, we could correct for square footage and room count by zooming in on a few specific school districts.
 
 ### Low Income Households
 ![Low income bar](Outputs/low_income.png)
