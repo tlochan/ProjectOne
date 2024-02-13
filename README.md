@@ -5,9 +5,10 @@
     #Observe charted data to determine possible correlations between school ratings and home prices
 
 # Research Questions to Answer:
-#### What is the relationship between school district metrics and the real estate data such as property value?
-#### Do districts with a higher proportion of families from low-income backgrounds have a different success rate? 
-##### How much more are people willing to pay for a home in a better school district?
+#### How much higher are average home prices in districts with better ranked schools?
+#### How has the current school ranking affected neighboring home values over the last 20 years?
+#### What is the relationship between school district metrics and the amount of low income families in the population?
+
 
     
 # Data Used and Analyzed
