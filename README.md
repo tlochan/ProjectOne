@@ -39,7 +39,17 @@
 ####  Although home price is a good proxy for general wealth, we can also use the percentage of low income students in a school to investigate more directly whether the average income of a district affects its rating and thus its home values. 
 
 #### In an exploration of the school districts in our dataset, the bar graph illustrates heavily right-tailed distribution. In other words, there are many more school districts with less low income students.
+
 ![Low income bar](Outputs/school_rating_vs_Low_income.png)
 #### In our regression of percentage of low income students and school rating, there is a moderate negative correlation (r-value = 0.48). Once we cross over to districts with a percentage over 60%, none of the areas have a school rating of Good or Great (6-8, 8+). In other words, none of the highly performing school districts in New Jersey contain a majority of low income students. 
 ![Rating vs Value](Outputs/Home_Value_and_Ranking_by_county.png)
 ####  As we zoom out to the county level, the trends for home value and school rating hold steady. As the school ratings get better, so too do the average home values. 
+
+
+## Final Conclusions:
+##### According to recent Zillow data, homes in poor school districts average around $365,000, while those in good districts cost about $570,000, and properties in top-tier districts exceed $800,000. Analysis using scatter plots and linear regression revealed a weak correlation between home value and school rating, with an R-value of around 0.33 consistently across years. This indicates that factors beyond school quality, such as crime rates, access to amenities, and neighborhood walkability, likely impact home values.
+
+##### Over the past two decades, the price gap between below-average and good school districts has widened, with below-average districts now priced approximately $70,000 lower than the average house. Good districts have consistently commanded a premium of around $100,000 over below-average ones for the past fifteen years. Furthermore, the value of great school districts has soared, with prices now exceeding $300,000 more than the average house, underscoring the enduring importance of quality education in the housing market.
+
+##### In our analysis correlating the percentage of low-income students with school ratings, we found a moderate negative correlation (r-value = 0.48). Specifically, when examining districts with a percentage of low-income students exceeding 60%, none of them achieved a school rating of Good or Great (6-8, 8+). Put simply, high-performing school districts in New Jersey typically do not have a majority of low-income students.
+
