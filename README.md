@@ -21,7 +21,7 @@
 ![Home Prices](Outputs/Change_in_home_price.png)
 ####  This graph charted the average home value for three different categories of school rating (<6, 6-8, 8+) for the last 20 years. The ANOVA test revealed an f-value of 15.532 which exceed the critical value -- this suggests that these groups are diffreent in a significant manner. When looking at the graph, it is evident that the better the school district, the higher the average school price is over the last 20 years. 
 ![Avg Home Values](Outputs/Change_in_home_price_vs_avg.png)
-####  These values represent the dollar value that a great, good, or below average school district creates against the average home value in New Jersey. For example, the below average school district has houses that are ~$70k cheaper than the average 2020 home. 
+####  These values represent the dollar value that a great, good, or below average school district creates against the average home value in New Jersey. For example, the below average school districts have houses that are ~$70k cheaper than the average 2020 home. Using the ANOVA method, we determined the f-value (91.6) to exceed the critical value; thus these groups have some statistically significant difference.
 
 #### Notably, these differentials are not steady even though the previous graph shows that all three categories demonstrated the same general shape. The below average school district is becoming cheaper ($37k vs $70k less). The good school district fluctuated up and down in the last 20 years but has stayed around $100k more in the last 15. The value of a great school district in 2000 was $165k but now these same districts cost in excess of $300k more than average. 
 
