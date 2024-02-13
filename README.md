@@ -45,7 +45,6 @@
 ![Rating vs Value](Outputs/Home_Value_and_Ranking_by_county.png)
 ####  As we zoom out to the county level, the trends for home value and school rating hold steady. As the school ratings get better, so too do the average home values. 
 
-
 ## Final Conclusions:
 ##### According to recent Zillow data, homes in poor school districts average around $365,000, while those in good districts cost about $570,000, and properties in top-tier districts exceed $800,000. Analysis using scatter plots and linear regression revealed a weak correlation between home value and school rating, with an R-value of around 0.33 consistently across years. This indicates that factors beyond school quality, such as crime rates, access to amenities, and neighborhood walkability, likely impact home values.
 
